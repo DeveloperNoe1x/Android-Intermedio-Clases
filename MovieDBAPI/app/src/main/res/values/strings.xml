@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MovieDBAPI</string>
+    <string name="pokemon">ingrese el nombre del pokemon</string>
+    <string name="btpokemon">BUSCAR</string>
+    <string name="tvnombre">Nombre</string>
+    <string name="tvaltura">Altura</string>
+    <string name="tvPeso" />
+    <string name="tvpeso">Peso</string>
+    <string name="overview">overview</string>
+    <string name="lanzamiento">lanzamiento</string>
 </resources>
